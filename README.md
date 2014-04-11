@@ -12,5 +12,9 @@ Bacharel em Sistemas de Informação - 5ª Fase
 <h2>I</h2>Interface Segregation - Objeto deve implementar apenas os métodos dos pais - Não fale com estranho, somente com objetos da mesma classe; Programar pra Interface
 <h2>D</h2>Dependency Inversion - Inverção de dependência - Se depender de alguem, dependa de alguem abstrato, pois ao contrario podem sofrer alterações;classes de alto nivel não podem depender de classes de baixo nivel, a não ser de abstração
 
-
 Artigo como referência <a href="http://robsoncastilho.com.br/2013/03/21/principios-solid-principio-de-substituicao-de-liskov-lsp/" target="blank">aqui</a>.
+
+
+Modelagem De Domínio - Classe - Diagrama de Classe
+
+Use Cases / Model / Especificação
