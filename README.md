@@ -14,7 +14,8 @@ Bacharel em Sistemas de Informação - 5ª Fase
 
 Artigo como referência <a href="http://robsoncastilho.com.br/2013/03/21/principios-solid-principio-de-substituicao-de-liskov-lsp/" target="blank">aqui</a>.
 
-
 Modelagem De Domínio - Classe - Diagrama de Classe
 
 Use Cases / Model / Especificação
+
+Objetos = Dados + Comportamentos
