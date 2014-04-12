@@ -5,7 +5,6 @@ Análise e Projeto de Sistemas 1
 
 Bacharel em Sistemas de Informação - 5ª Fase
 
-
 <h2>S</h2>Single Responsibility - A classe dever ter uma única responsábilidade
 <h2>O</h2>Programas devem ser abertos pra extenção e fechados pra modificação - Nunca mais arrumar
 <h2>L</h2>Barbara Liskov - Princípio da substituição - Classes derivadas devem poder ser substituídas por suas classes base - compartamento do pai deve ser honrado pelo filos, e os filhos podem ser chamados pelo pais, posso chamar um fiho respondendo pelo pai
